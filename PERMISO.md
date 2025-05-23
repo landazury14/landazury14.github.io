@@ -78,7 +78,7 @@
     </tr>
     <tr>
       <td class="label">No. económico:</td>
-      <td>1406</td>
+      <td>2180</td>
     </tr>
     <tr>
       <td class="label">Vigencia:</td>
@@ -98,7 +98,7 @@
     </tr>
     <tr>
       <td class="label">Modelo:</td>
-      <td>2020</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td class="label">Marca:</td>
@@ -106,15 +106,15 @@
     </tr>
     <tr>
       <td class="label">Tipo:</td>
-      <td>AVEO NG 4PTS C LT</td>
+      <td>AVEO SEDAN 4 PTS </td>
     </tr>
     <tr>
       <td class="label">Motor:</td>
-      <td>HECHO EN WUHANLL SGM</td>
+      <td>HECHO EN WULING, SAIC GM CHINA</td>
     </tr>
     <tr>
       <td class="label">Serie:</td>
-      <td>LSGHD52H9LD193564</td>
+      <td>LZWPRMGN4RF851738</td>
     </tr>
     <tr>
       <td class="label">Placas:</td>
